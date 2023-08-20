@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: 데이터분석 공부하기
+description: 데이터 분석 공부를 정리하기 위한 공간입니다❤
+github_username: inodie
 
 # Email and twitter are optional:
 email:
